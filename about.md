@@ -2,14 +2,14 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+Hi! I'm Sun, welcome to my blog!
+### Why this blog ？
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+This is my first independently blog, the purpose of this blog is to write down my idea and emotion I like to share with you at any time.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[githubblog@gmail.com](mailto:githubblog@gmail.com)
