@@ -72,3 +72,15 @@ exclude:
     - Gemfile.lock
     - LICENSE
     - README.md
+prose:
+  media: 'images'
+  metadata: 
+  	- name: "layout"
+      field: 
+      	element: "hidden"
+      	value: "blog"
+    - name: "title"
+       field:
+         elemet: "text"
+         label: "title"
+         
