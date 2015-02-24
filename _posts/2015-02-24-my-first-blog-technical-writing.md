@@ -15,10 +15,12 @@ title: "My First Blog--technical writing"
 ![technical writing.jpeg](/images/technical%20writing.jpeg)
 
 ###Technicaques
-Good technical writing is concise, focused, easy to understand, and free of errors. > Technical writers focus on making their documents as clear as possible, avoiding overly technical phrases and stylistic choices like passive voice and nominalizations.
+Good technical writing is concise, focused, easy to understand, and free of errors.
+> Technical writers focus on making their documents as clear as possible, avoiding overly technical phrases and stylistic choices like passive voice and nominalizations.
 
 ###Tools
 The **following tools** are used by _technical writers_ to author and present documents:
+
 1. [Desktop publishing tools](http://en.wikipedia.org/wiki/Desktop_publishing) or word processors
 2. Image editing software
 3. Web development tools
