@@ -12,7 +12,7 @@ title: "My First Blog--technical writing"
 
 ###Overview
 **Technical writing** is performed by a technical writer and is the process of writing and sharing information in a _professional setting_.
-![Technical Writing](/http://personal-blog.henryfuentes.netdna-cdn.com/wp-content/uploads/2015/01/writing-cloud.jpg)
+![technical writing.jpeg](/images/technical%20writing.jpeg)
 
 ###Technicaques
 Good technical writing is concise, focused, easy to understand, and free of errors. > Technical writers focus on making their documents as clear as possible, avoiding overly technical phrases and stylistic choices like passive voice and nominalizations.
