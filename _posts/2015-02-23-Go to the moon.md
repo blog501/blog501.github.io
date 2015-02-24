@@ -1,4 +1,6 @@
 ---
+layout: blog
+title: go to the moon
 published: true
 ---
 
