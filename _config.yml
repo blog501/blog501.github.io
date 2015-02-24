@@ -30,6 +30,19 @@ footer-links:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
 
+
+prose: 
+  media: 'images'
+  metadata: 
+  	_posts:
+    - name: "layout"
+      field: 
+      	element: "hidden"
+      	value: "blog"
+    - name: "title"
+       field:
+         elemet: "text"
+         label: "title"
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
 disqus:
@@ -72,15 +85,5 @@ exclude:
     - Gemfile.lock
     - LICENSE
     - README.md
-prose:
-  media: 'images'
-  metadata: 
-  	- name: "layout"
-      field: 
-      	element: "hidden"
-      	value: "blog"
-    - name: "title"
-       field:
-         elemet: "text"
-         label: "title"
+
          
