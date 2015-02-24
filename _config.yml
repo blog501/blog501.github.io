@@ -31,18 +31,7 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
 
 
-prose: 
-  media: 'images'
-  metadata: 
-  	_posts:
-    - name: "layout"
-      field: 
-      	element: "hidden"
-      	value: "blog"
-    - name: "title"
-       field:
-         elemet: "text"
-         label: "title"
+
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
 disqus:
@@ -86,4 +75,22 @@ exclude:
     - LICENSE
     - README.md
 
-         
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://githubblog.github.io'
+  media: 'images'
+  metadata:
+    _posts:
+      - name: "category"
+        field:
+          element: "hidden"
+          value: "blog"
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "blog"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
